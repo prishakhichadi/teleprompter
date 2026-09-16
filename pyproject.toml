@@ -1,0 +1,16 @@
+[project]
+name = "promptvf"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "==3.10.9"
+dependencies = [
+    "customtkinter>=5.2.2",
+    "numpy>=2.2.6",
+    "openai-whisper>=20250625",
+    "python-pptx>=1.0.2",
+    "sentence-transformers>=5.2.0",
+    "sounddevice>=0.5.3",
+    "torch>=2.9.1",
+    "torchaudio>=2.9.1",
+]

@@ -1,0 +1,22 @@
+#STT
+whisper
+
+#semantics
+sentence-transformers
+torch
+
+#audio input
+sounddevice
+
+#numerical
+numpy
+#=1.26.4
+#numpy is fixed to 1.26.4 for stability w torch and whisper
+
+#UI
+customtkinter
+
+#stdlib (installation not required) include: threading, tkinter, os, time, queue, textwrap, re
+
+#ppt integration
+python-pptx
